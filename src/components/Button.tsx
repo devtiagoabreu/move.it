@@ -1,12 +1,12 @@
 interface ButtonProps {
   color: string;
+  children: string;
 }
 
 export function Button(props: ButtonProps) {
   return(
     <button type="button" style={{ backgroundColor: props.color }}>
-      Botão
-      <strong>Teste</strong>
+      {props.children}
     </button>
   );
 } 
