@@ -2,7 +2,12 @@ import { Button} from './components/Button'
 
 function App() {
   return (
-    <Button />
+    <div>
+      <Button />
+      <Button />
+      <Button />
+    </div>
+    
   );
 }
 
