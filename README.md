@@ -27,8 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Next.js](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
@@ -37,7 +36,7 @@ O Move.it é uma aplicação do tipo pomodoro gaming, unindo foco, saúde labora
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 - [Layout](https://www.figma.com/file/mK0RZ4IPHDklCywzoEIwdJ/Move.it-1.0)
 
