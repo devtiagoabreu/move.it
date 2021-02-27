@@ -3,9 +3,9 @@ import { Button} from './components/Button'
 function App() {
   return (
     <div>
-      <Button />
-      <Button />
-      <Button />
+      <Button color="red"/>
+      <Button color="blue"/>
+      <Button color="green"/>
     </div>
     
   );
