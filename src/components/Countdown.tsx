@@ -3,8 +3,6 @@ import { CountdownContext } from '../contexts/CountdownContext';
 import { ChallengesContext } from '../contexts/ChallengesContext';
 import styles from '../styles/components/Countdown.module.css';
 
-let countdownTimeout: NodeJS.Timeout;
-
 export function Countdown() {
   const { 
     minutes, 

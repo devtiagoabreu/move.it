@@ -5,7 +5,7 @@ interface CountdownContextData {
   minutes: number;
   seconds: number;
   hasFinished: boolean;
-  isActive: boolean
+  isActive: boolean;
   startCountdown: () => void;
   resetCountdown: () => void;
 }
@@ -60,7 +60,7 @@ export function CountdownProvider({ children }: CountdownProviderProps) {
       startCountdown,
       resetCountdown,
     }}>
-      {Children}
+      {children}
     </CountdownContext.Provider>
   )
 }
