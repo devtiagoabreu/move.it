@@ -45,6 +45,7 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 A aplicação foi publicada durante a 4ª semana Next Level Week e serviu para meus estudos nas tecnologias acima citadas.
 Pretendo criar novos projetos utilizando esta aplicação como base, deste já agradeço a Rocketseat e todos os seus colaboradores.
 
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -52,3 +53,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Codado com muita alegria e filhas no colo ♥ by Tiago de Abreu :wave: 
+[![Linkedin Badge](https://img.shields.io/badge/-anabrtorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabrtorres/)](https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)
+[![Gmail Badge](https://img.shields.io/badge/-anabrtorres19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabrtorres19@gmail.com)](mailto:devtiagoabreu@gmail.com)
