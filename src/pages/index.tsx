@@ -13,16 +13,16 @@ import { prependOnceListener } from 'node:process';
 
 interface HomePorps {
   level: number;
-  currentExprerience: number;
-  chalengesCompleted: number;
+  currentExperience: number;
+  challengesCompleted: number;
 }
 
 export default function Home(props: HomePorps) {
   return (
     <ChallengesProvider 
       level={props.level} 
-      currentExprerience={props.currentExprerience}
-      chalengesCompleted={props.chalengesCompleted} 
+      currentExperience={props.currentExperience}
+      challengesCompleted={props.challengesCompleted} 
     >
       <div className={styles.container}>
         <Head>
